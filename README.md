@@ -2,13 +2,6 @@
 
 A web-based Account Management System designed for environments like hospital cafeterias where users (e.g. doctors) can make purchases on account and settle balances monthly. The system integrates with Oracle Simphony POS, providing account creation, sales posting, payment processing, and reporting functionalities.
 
-> Developed by Micros South Africa (Pty) Ltd  
-> Reg. 2001/022540/07  
-> [micros.co.za](https://micros.co.za)  
-> Adapt IT Johannesburg Campus  
-> 152, 14th Road, Midrand, 1687  
-> 📞 +27 10 494 0000
-
 ---
 
 ## 🧰 Tech Stack
